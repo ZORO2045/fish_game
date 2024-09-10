@@ -2,18 +2,20 @@
 
 ## Description
 
-Fish Game is an exciting web-based game where players control a fish and navigate through obstacles while collecting points. The game features colorful graphics and engaging gameplay, making it fun for players of all ages.
+Fish Game is an exciting web-based game where players control a fish, navigating through obstacles while collecting points. It features colorful graphics and engaging gameplay, making it enjoyable for players of all ages.
 
 ## Demo
 
-You can play the game directly [here](https://zoro2045.github.io/fish_game/).
+You can play the game directly:
+- For **PC**: [Play on PC](https://zoro2045.github.io/fish_game_pc/)
+- For **Android**: [Play on Android](https://zoro2045.github.io/fish_game/)
 
 ## Features
 
 - Simple and intuitive controls
 - Colorful graphics
 - Engaging gameplay
-- Responsive design for mobile and desktop
+- Responsive design for both mobile and desktop
 
 ## Technologies Used
 
@@ -43,6 +45,4 @@ To run the game locally, follow these steps:
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out:
-
-- Developed By: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045)
+For any inquiries or feedback, feel free to reach out to the developer: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045).
