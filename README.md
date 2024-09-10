@@ -1,7 +1,5 @@
 # Fish Game
 
-![Fish Game Banner](fish_game.jpg)
-
 ## Description
 
 Fish Game is an exciting web-based game where players control a fish and navigate through obstacles while collecting points. The game features colorful graphics and engaging gameplay, making it fun for players of all ages.
