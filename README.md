@@ -4,7 +4,7 @@
 
 ## Description
 
-Fish Game is an exciting web-based game where players control a bird and navigate through obstacles while collecting points. The game features colorful graphics and engaging gameplay, making it fun for players of all ages.
+Fish Game is an exciting web-based game where players control a fish and navigate through obstacles while collecting points. The game features colorful graphics and engaging gameplay, making it fun for players of all ages.
 
 ## Demo
 
@@ -40,11 +40,11 @@ To run the game locally, follow these steps:
 ## How to Play
 
 - Click the "Press to Play" button to start the game.
-- Tap or click to make the bird flap and avoid obstacles.
+- Tap or click to make the fish flap and avoid obstacles.
 - Collect points as you navigate through the gaps.
 
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-- Developed By: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045)
+- Developed By: [ፚ Ꭷ Ꮢ Ꭷ ❥e](https://t.me/ZORO2045)
