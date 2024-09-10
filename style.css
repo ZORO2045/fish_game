@@ -1,40 +1,46 @@
 body {
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    padding: 0;
+    overflow: hidden;
     background-color: #1a1a1a;
+    display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+    font-family: Arial, sans-serif;
 }
 
 canvas {
-    border: 2px solid #fff;
-    background-color: #eee;
+    background: #eee;
+    display: block;
 }
 
 #controls {
-    position: absolute;
-    bottom: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
 }
 
 button {
     padding: 10px 20px;
-    font-size: 1.2rem;
-    font-weight: bold;
     background-color: #e60000;
     color: #fff;
     border: none;
-    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 2px;
     cursor: pointer;
+}
+
+button:active {
+    background-color: #cc0000;
 }
 
 footer {
     margin-top: 20px;
-    color: #fff;
-    font-size: 0.9rem;
-    text-align: center;
+    font-size: 1rem;
 }
