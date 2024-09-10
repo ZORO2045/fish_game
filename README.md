@@ -45,4 +45,4 @@ To run the game locally, follow these steps:
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to the developer: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045).
+For feedback, feel free to reach out to the developer: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045).
