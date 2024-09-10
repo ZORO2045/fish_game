@@ -47,4 +47,4 @@ To run the game locally, follow these steps:
 
 For any inquiries or feedback, feel free to reach out:
 
-- Developed By: [ፚ Ꭷ Ꮢ Ꭷ ❥e](https://t.me/ZORO2045)
+- Developed By: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045)
